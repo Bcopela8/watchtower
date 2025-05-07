@@ -1,0 +1,30 @@
+.card {
+  background-color: #1e1e1e;
+  border-radius: 10px;
+  width: 200px;
+  padding: 15px;
+  color: white;
+  text-align: center;
+}
+
+.poster {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.sources {
+  list-style: none;
+  padding: 0;
+}
+
+.sources li {
+  display: flex;
+  align-items: center;
+  margin-top: 5px;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+}
